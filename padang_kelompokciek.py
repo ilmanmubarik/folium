@@ -6,15 +6,16 @@ m = folium.Map(
     )
     
  folium.Marker(
-    location=[-0.701316, 100.290751],
-    popup='Lubuk Alung, Kabupaten Padang Pariaman, Sumatera Barat 25582',
+    location=[-0.819430, 100.304417],
+    popup='Padang Sarai
+Koto Tangah, Kota Padang, Sumatera Barat',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
     
 folium.Marker(
-    location=[-0.948799, 100.415458],
-    popup='Tanah Sirah Piai Nan XX
-Lubuk Begalung, Kota Padang, Sumatera Barat',
+    location=[-0.834507, 100.338057],
+    popup='Batipuh Panjang
+Koto Tangah, Kota Padang, Sumatera Barat',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
 
@@ -40,36 +41,36 @@ Kuranji, Kota Padang, Sumatera Barat',
 ).add_to(m)
 
 folium.Marker(
-    location=[-0.434739, 100.329522],
-    popup='Kabupaten Tanah Datar
-Sumatera Barat',
+    location=[-0.855194, 100.358253],
+    popup='Koto Panjang Ikua Koto
+Koto Tangah, Kota Padang, Sumatera Barat',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
 
 folium.Marker(
-    location=[-1.049919, 101.043633],
-    popup='Garabak Data
-Tigo Lurah Bajanjang, Solok, Sumatera Barat',
+    location=[-0.906418, 100.359485],
+    popup='Kp. Lapai
+Nanggalo, Kota Padang, Sumatera Barat',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
 
 folium.Marker(
-    location=[0.084361, 100.335015],
-    popup='Sialang
-Kapur IX, Kabupaten Lima Puluh Kota, Sumatera Barat',
+    location=[-0.923667, 100.377036],
+    popup='Ampang
+Kuranji, Kota Padang, Sumatera Barat',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
 
 folium.Marker(
-    location=[0.291727, 99.554986],
-    popup='Lembah Malintang
-Ujung Gading, Kabupaten Pasaman Barat, Sumatera Barat',
+    location=[-0.943807, 100.374209],
+    popup='Sawahan Tim.
+Padang Tim., Kota Padang, Sumatera Barat',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
 
 folium.Marker(
-    location=[-0.773922, 100.274590],
-    popup='Katapiang
-Batang Anai, Kabupaten Padang Pariaman, Sumatera Barat',
+    location=[-0.939567, 100.447006],
+    popup='Kapala Koto
+Pauh, Kota Padang, Sumatera Barat',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
